@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451208919372",
+    "firebase_url": "https://myticket-booking.firebaseio.com",
+    "project_id": "myticket-booking",
+    "storage_bucket": "myticket-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451208919372:android:9fc9f42b36c30c9bce77e9",
+        "android_client_info": {
+          "package_name": "com.example.myticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451208919372-5i318a2jqe1mbmm6uonu9cd6umk6m64u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1M54AvbwUf7DiWOuMXUCYkgMVBCtpQLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451208919372-5i318a2jqe1mbmm6uonu9cd6umk6m64u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
